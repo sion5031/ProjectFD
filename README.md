@@ -1,5 +1,5 @@
-[![Video Label]]
-(https://i9.ytimg.com/vi/yOkwnCv6Pjc/mqdefault.jpg?sqp=CPi8tMkG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgZShlMA8=&rs=AOn4CLDYUAcYuDG-rpBUzSXTae1Wr0Xhrw)
+[![Video Label]
+(https://proud-geranium-753.notion.site/image/attachment%3A5520c9d3-01fc-4243-9cfc-870637106cfd%3Aimage.png?table=block&id=2bc1f452-51d2-80e1-be5e-e13c8c27ce4a&spaceId=1351f452-51d2-81f3-8e52-0003ce04aaaa&width=1420&userId=&cache=v2)]
 (https://youtu.be/yOkwnCv6Pjc)
 
 ## 1. 프로젝트 개요
