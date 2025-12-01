@@ -28,6 +28,9 @@
 - Component 기반 설계
 - FastArraySerializer 기반 인벤토리 설계
 
+**UI / UX**
+- UMG Widget System
+
 **Build & Deployment**
 - Packaging(Shipping / Development)
 - Config 관리(DefaultGame.ini, Engine.ini)
