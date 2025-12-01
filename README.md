@@ -5,14 +5,10 @@
 - 개발 기간: 2025년 9월 1일 ~ 11월 7일
 
 
-
-
 ## 핵심 구현 내용
 - 서상원(팀장) : 인벤토리 및 아이템, UI, 서버 환경 구축
 - 이기호 : 캐릭터 기본 조작 및 기능 구현
 - 김주신 : 보스 및 기본 몬스터 구현
-
-
 
 
 ## 기술 스택
@@ -23,7 +19,6 @@
 - Server Travel
 - PlayerState 복제 및 Custom Data Sync
 
-
 **Gameplay Architecture**
 - Gameplay Ability System(GAS)
   - GameplayEffect / AbilitySpec
@@ -33,21 +28,16 @@
 - Component 기반 설계
 - FastArraySerializer 기반 인벤토리 설계
 
-
 **UI / UX**
 - UMG Widget System
-
 
 **Build & Deployment**
 - Packaging(Shipping / Development)
 - Config 관리(DefaultGame.ini, Engine.ini)
 
-
 **Tools & Workflow**
 - Perforce
 - Notion
-
-
 
 
 ## 결과 및 성과(서상원)
@@ -56,9 +46,10 @@
 - UI : 인벤토리, HUD 구현
 
 
-
-
 ## Contact
 - 서상원 swseo97@naver.com
 - 이기호 crystalwing@gmail.com
 - 김주신 powe556@gamil.com
+
+**시현 영상 링크**
+https://youtu.be/yOkwnCv6Pjc
