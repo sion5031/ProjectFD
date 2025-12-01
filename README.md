@@ -1,5 +1,6 @@
 [![Video Label](https://img.youtube.com/vi/yOkwnCv6Pjc/0.jpg)](https://www.youtube.com/watch?v=yOkwnCv6Pjc)
-# 언리얼 팀 프로젝트 - The First Descendant 모작
+# 언리얼 팀 프로젝트 - The First Descendant 모작  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png"  width="40" height="40">
+
 
 ## 1. 프로젝트 개요
 - 목적 : 언리얼 엔진을 활용한 멀티 플레이 루터슈터(TPS + RPG) 장르 구현
