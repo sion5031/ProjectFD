@@ -1,6 +1,6 @@
 [![Video Label]
-(https://proud-geranium-753.notion.site/image/attachment%3A5520c9d3-01fc-4243-9cfc-870637106cfd%3Aimage.png?table=block&id=2bc1f452-51d2-80e1-be5e-e13c8c27ce4a&spaceId=1351f452-51d2-81f3-8e52-0003ce04aaaa&width=1420&userId=&cache=v2)]
-(https://youtu.be/yOkwnCv6Pjc)
+(https://img.youtube.com/vi/yOkwnCv6Pjc/0.jpg)]
+(https://www.youtube.com/watch?v=yOkwnCv6Pjc)
 
 ## 1. 프로젝트 개요
 - 목적 : 언리얼 엔진을 활용한 멀티 플레이 루터슈터(TPS + RPG) 장르 구현
